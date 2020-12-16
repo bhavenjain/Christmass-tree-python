@@ -1,3 +1,1 @@
-# Christmass-tree-python
-program for displaying a nice tree
-A good brainstorming gane
+This is a python project
